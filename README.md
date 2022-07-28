@@ -5,7 +5,7 @@ Here you will find a random assortment of mods I made while messing around with 
 ## Index
 
 1. Repeater Cannons
-2. Etienne's Ship
+2. [Etienne's Ship](Karateka95.github.io/etiennes-ship)
 
 ## Welcome to GitHub Pages
 
