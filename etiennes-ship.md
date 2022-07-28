@@ -1,4 +1,4 @@
 ## Etienne's Ship
 This mod is pretty good :)
 
-[Lookee here boys!](https://karateka95.github.io/FE_NavyManowar_complete.png)
+[Lookee here boysah!](https://karateka95.github.io/FE_NavyManowar_complete.png)
