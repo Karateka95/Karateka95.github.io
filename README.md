@@ -4,7 +4,7 @@ Here you will find a random assortment of mods I made while messing around with 
 
 ## Index
 
-1. Plasma Repeater Gun
+1. Repeater Cannons
 2. Etienne's Ship
 
 ## Welcome to GitHub Pages
