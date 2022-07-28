@@ -1,4 +1,17 @@
-# Treasure Planet: Battle at Procyon mods
+## Welcome to my collection of TP BaP mods!
+
+Here you will find a random assortment of mods I made while messing around with text files in the game's directory. Some files, links, images and videos will be presented to give you a preview of each mod and to try them out for yourself. This page was generated using GitHub Pages.
+
+## Index
+
+### Page number / Mod name
+
+1 / Plasma Repeater Gun
+2 / Etienne's Ship
+
+### Page number / Page title
+1 / Plasma Repeater Guns
+2 / 
 
 ## Welcome to GitHub Pages
 
