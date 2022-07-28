@@ -4,14 +4,8 @@ Here you will find a random assortment of mods I made while messing around with 
 
 ## Index
 
-### Page number / Mod name
-
-1 / Plasma Repeater Gun
-2 / Etienne's Ship
-
-### Page number / Page title
-1 / Plasma Repeater Guns
-2 / 
+1. Plasma Repeater Gun
+2. Etienne's Ship
 
 ## Welcome to GitHub Pages
 
